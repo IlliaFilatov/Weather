@@ -1,0 +1,7 @@
+@font-face {
+    font-family: 'rocketwildnessregular';
+    src: url('rocketwildness-7bb8r-webfont.woff2') format('woff2'),
+         url('rocketwildness-7bb8r-webfont.woff') format('woff');
+    font-weight: normal;
+    font-style: normal;
+}
